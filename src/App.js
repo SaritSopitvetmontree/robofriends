@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component, useState, useEffect } from "react";
 import SearchBox from "./SearchBox";
 import Cardlist from './Cardlist';
 import Scroll from './Scroll';
